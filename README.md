@@ -1,37 +1,47 @@
-![R. (@robertijtsma) — Systems, Linux Kernel ARM64 & Software Engineering](assets/profile-banner.svg)
+![Robert IJtsma (el nosso) — Full-Stack Web Developer & Systems Enthusiast](assets/profile-banner.svg)
 
 <p align="center">
-  <a href="https://elnosso.dev"><img src="https://img.shields.io/badge/Website-elnosso.dev-38bdf8?style=for-the-badge" alt="elnosso.dev" /></a>
-  <a href="https://robertijtsma.github.io/surface-pro-x-sq2-linux/"><img src="https://img.shields.io/badge/Surface%20Pro%20X%20Linux-Docs%20Site-34d399?style=for-the-badge" alt="Surface Pro X SQ2 Linux Docs" /></a>
-  <a href="https://github.com/robertijtsma/surface-pro-x-sq2-linux/releases/latest"><img src="https://img.shields.io/github/v/release/robertijtsma/surface-pro-x-sq2-linux?style=for-the-badge&color=818cf8" alt="Latest Release" /></a>
+  <a href="https://elnosso.dev"><img src="https://img.shields.io/badge/Portfolio-elnosso.dev-ef4444?style=for-the-badge" alt="elnosso.dev" /></a>
+  <a href="mailto:root@elnosso.dev"><img src="https://img.shields.io/badge/Email-root@elnosso.dev-18181b?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="Email" /></a>
+  <a href="https://tod.playthis.wtf"><img src="https://img.shields.io/badge/App-Truth%20or%20Dare-18181b?style=for-the-badge" alt="Truth or Dare" /></a>
+  <a href="https://rave050.nl"><img src="https://img.shields.io/badge/Community-Rave050-18181b?style=for-the-badge" alt="Rave050" /></a>
+  <a href="https://instagram.com/el0nosso"><img src="https://img.shields.io/badge/Instagram-@el0nosso-18181b?style=for-the-badge&logo=instagram&logoColor=ef4444" alt="Instagram" /></a>
 </p>
 
-### Featured Project
+### About Me
 
-#### [`surface-pro-x-sq2-linux`](https://github.com/robertijtsma/surface-pro-x-sq2-linux) — 100% Linux 7.3 Enablement for Microsoft Surface Pro X SQ2 (`SC8180X` / ARM64)
+I'm **Robert IJtsma** (*el nosso*), a **Full-Stack Web Developer** based in **Groningen, Netherlands**, currently building and optimizing production web applications at **Script**.
 
-Reverse-engineering, kernel patching, Device Tree bring-up, and user-space daemons bringing **all 15 hardware subsystems** of the Qualcomm SC8180X Surface Pro X SQ2 to life on Arch Linux ARM64 (`7.3.1-1-surface`):
+My path into software engineering started early through self-study, curiosity about **cybersecurity**, networking, and running custom game servers & C# tooling from age 12. After completing both **Application & Media Development** (Alfa-college) and **Software Development / Bit Academy** (Noorderpoort), and spending several years in commercial sales and team leadership roles, I combine a solid technical foundation with clear communication and a pragmatic, results-driven mindset.
 
-| Area | Highlights |
+Day-to-day I focus on reliable full-stack web & backend engineering (**React**, **TypeScript**, **Node.js**, **NestJS**, **PHP / Laravel**) — and in my spare time I love going low-level into **Linux, ARM64 hardware bring-up, and security**.
+
+---
+
+### Core Stack
+
+| Area | Technologies |
 |---|---|
-| **Cameras & IR Face ID** | Front 5 MP (`OV5693`), Rear 13 MP (`OV13858`), Front IR (`OV7251`) on Titan 175 CAMSS, symmetric Adreno `DebayerEGL` CCMs, refcounted privacy LEDs, 850 nm IR strobe & ~0.9 s Windows Hello Howdy unlock |
-| **Surface Slim Pen 2** | Native `<1 s` BLE auto-reconnect (`Privacy = device` + Local IRK + `0xFFF4` BLE-LC), real-time `UsagePage 0x0E` tactile haptics over `7.5 ms` BLE, white hover-dot GNOME extension & Mutter 51.1 `#5215` crash guard |
-| **4G LTE & 4K Video** | Snapdragon X24 + Qualcomm `IPA v4.1`, EL1 SCM (`0x02001a01`) SPI NOR `modem_fsg` extractor (`sq2_fsg_read`), and bit-exact 4K H.264/HEVC/VP9 decode via Qualcomm Venus HFI4 (`PAS 9`) |
-| **Power, Display & Security** | Adreno 685 fixes, dual USB-C DisplayPort Alt Mode (`surface_typec`), `surface_ldoe14_xob` audio rail, QSEE hardware TPM 2.0, SLPI sensors, `TCS3430` ALS, and `s2idle` deep sleep + `sq2_s2idle_pm` |
-
-> **Interactive Docs & Quick Install:** [robertijtsma.github.io/surface-pro-x-sq2-linux](https://robertijtsma.github.io/surface-pro-x-sq2-linux/)
+| **Frontend** | React, TypeScript, JavaScript, Vue, HTML5, CSS3 / Tailwind, PWA |
+| **Backend & APIs** | Node.js, NestJS, PHP, Laravel, REST APIs, Socket.IO / Realtime |
+| **Data & Workflow** | MySQL, SQL, Docker, Git, Agile / Scrum |
+| **Systems & Side Quests** | Linux (Arch / ARM64), C, Shell, Kernel / Device Tree Bring-Up, Cybersecurity |
 
 ---
 
-### Focus & Toolbox
+### Featured Projects
 
-- **Low-Level & Systems**: Linux Kernel (`C`, Device Tree, DKMS, V4L2/CAMSS, DRM/MSM, RPMh, HID/BLE HOGP, QMI/QRTR, TrustZone SCM)
-- **Desktop & Automation**: Arch Linux ARM64, GNOME Shell / Wayland (GJS, GTK4, Libadwaita), `systemd`, `libcamera`, PipeWire
-- **App & Web Engineering**: Python, TypeScript / JavaScript, Vue, Electron, Shell
+| Project | Type | What it is |
+|---|---|---|
+| [**`elnosso.dev`**](https://elnosso.dev) | Full-Stack Portfolio & PWA | Personal multilingual portfolio web app with custom backend API, CMS, dark gothic UI, and installable PWA support. |
+| [**`Truth or Dare`**](https://tod.playthis.wtf) | Realtime Mobile / Web App | Feature-rich multiplayer Truth or Dare app with live sessions and custom pack creation to play with friends. |
+| [**`surface-pro-x-sq2-linux`**](https://github.com/robertijtsma/surface-pro-x-sq2-linux) | Linux Kernel & ARM64 Bring-Up | 100% Linux 7.3 hardware enablement (15/15 subsystems) for Microsoft Surface Pro X SQ2 (`SC8180X`): 3 cameras + IR Face ID, Slim Pen 2 BLE haptics, 4G LTE, 4K Venus decode, USB-C DP, QSEE fTPM 2.0 & `s2idle`. ([Live Docs](https://robertijtsma.github.io/surface-pro-x-sq2-linux/)) |
+| [**`Rave050`**](https://rave050.nl) | Community Platform | Groningen's largest rave & festival community for connecting people, events, and music. |
 
 ---
 
-### Other Repositories
+### Open Source & Archive
 
-- [`aarch64-arch-mkimg`](https://github.com/robertijtsma/aarch64-arch-mkimg) — Arch Linux AArch64 bootable disk image builder adapted for Surface Pro X
-- [`elnosso.dev`](https://elnosso.dev) — Personal site & experiments
+- [**`surface-pro-x-sq2-linux`**](https://github.com/robertijtsma/surface-pro-x-sq2-linux) — Kernel patches, DKMS drivers, Device Tree, daemons & Arch `PKGBUILD` for Surface Pro X SQ2 ([v1.8.0](https://github.com/robertijtsma/surface-pro-x-sq2-linux/releases/latest))
+- [**`aarch64-arch-mkimg`**](https://github.com/robertijtsma/aarch64-arch-mkimg) — Arch Linux AArch64 bootable disk image builder adapted for Surface Pro X
+- [**`Smurfhotel`**](https://github.com/robertijtsma/Smurfhotel) — Nostalgic archive of one of my earliest large-scale game-server projects

@@ -1,71 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" role="img" aria-label="R. (@robertijtsma) — Systems, Linux Kernel ARM64 &amp; Software Engineering">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="100%" role="img" aria-label="Robert IJtsma (el nosso) — Full-Stack Web Developer &amp; Systems Enthusiast">
   <defs>
-    <linearGradient id="pbg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#090d16"/>
-      <stop offset="55%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#0b1324"/>
+    <linearGradient id="ebg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090b"/>
+      <stop offset="55%" stop-color="#0d0d0f"/>
+      <stop offset="100%" stop-color="#170b0d"/>
     </linearGradient>
-    <linearGradient id="pacc" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="50%" stop-color="#818cf8"/>
-      <stop offset="100%" stop-color="#34d399"/>
+    <linearGradient id="ered" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="55%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#f97316"/>
     </linearGradient>
-    <radialGradient id="porb" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    <radialGradient id="eglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.22"/>
+      <stop offset="65%" stop-color="#dc2626" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
-  <rect width="1200" height="240" rx="16" fill="url(#pbg)"/>
-  <rect x="1.5" y="1.5" width="1197" height="237" rx="14.5" fill="none" stroke="#1f2937" stroke-width="2"/>
+  <rect width="1200" height="250" rx="16" fill="url(#ebg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="247" rx="14.5" fill="none" stroke="#27272a" stroke-width="2"/>
 
-  <!-- Subtle background grid -->
-  <g stroke="#1f2937" stroke-opacity="0.45" stroke-width="1">
-    <line x1="0" y1="60" x2="1200" y2="60"/>
-    <line x1="0" y1="120" x2="1200" y2="120"/>
-    <line x1="0" y1="180" x2="1200" y2="180"/>
-    <line x1="240" y1="0" x2="240" y2="240"/>
-    <line x1="480" y1="0" x2="480" y2="240"/>
-    <line x1="720" y1="0" x2="720" y2="240"/>
-    <line x1="960" y1="0" x2="960" y2="240"/>
+  <!-- Subtle dark grid -->
+  <g stroke="#27272a" stroke-opacity="0.45" stroke-width="1">
+    <line x1="0" y1="62" x2="1200" y2="62"/>
+    <line x1="0" y1="125" x2="1200" y2="125"/>
+    <line x1="0" y1="188" x2="1200" y2="188"/>
+    <line x1="240" y1="0" x2="240" y2="250"/>
+    <line x1="480" y1="0" x2="480" y2="250"/>
+    <line x1="720" y1="0" x2="720" y2="250"/>
+    <line x1="960" y1="0" x2="960" y2="250"/>
   </g>
 
-  <circle cx="1030" cy="120" r="150" fill="url(#porb)"/>
+  <circle cx="1040" cy="125" r="170" fill="url(#eglow)"/>
 
-  <!-- Accent Bar -->
-  <rect x="48" y="36" width="84" height="4" rx="2" fill="url(#pacc)"/>
-
-  <!-- Name & Tagline -->
-  <text x="48" y="92" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="38" font-weight="800" fill="#f8fafc" letter-spacing="-0.8">
-    Hi, I'm R. (@robertijtsma)
-  </text>
-  <text x="48" y="128" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#94a3b8">
-    Linux Kernel &amp; ARM64 Hardware Bring-Up · Systems Hacking · Full-Stack Builder · Groningen, NL
+  <!-- Crimson Accent Bar -->
+  <rect x="48" y="34" width="88" height="4" rx="2" fill="url(#ered)"/>
+  <text x="148" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600" fill="#ef4444" letter-spacing="2">
+    EL NOSSO // GRONINGEN, NL
   </text>
 
-  <!-- Tech Pills -->
+  <!-- Main Heading -->
+  <text x="48" y="96" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="800" fill="#fafafa" letter-spacing="-1">
+    Robert IJtsma
+  </text>
+  <text x="342" y="95" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" font-weight="500" fill="#71717a">
+    @robertijtsma
+  </text>
+
+  <!-- Tagline -->
+  <text x="48" y="132" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a1a1aa">
+    Full-Stack Web Developer · Modern Web &amp; Backend Architecture · Cybersecurity &amp; Linux Systems
+  </text>
+
+  <!-- Tech Stack Pills -->
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="600">
-    <rect x="48" y="158" width="146" height="32" rx="8" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.5"/>
-    <text x="121" y="179" text-anchor="middle" fill="#38bdf8">Linux Kernel / C</text>
+    <rect x="48" y="164" width="166" height="32" rx="8" fill="#18181b" stroke="#ef4444" stroke-opacity="0.55"/>
+    <text x="131" y="185" text-anchor="middle" fill="#fca5a5">React / TypeScript</text>
 
-    <rect x="206" y="158" width="160" height="32" rx="8" fill="#0f172a" stroke="#34d399" stroke-opacity="0.5"/>
-    <text x="286" y="179" text-anchor="middle" fill="#34d399">Qualcomm ARM64</text>
+    <rect x="226" y="164" width="150" height="32" rx="8" fill="#18181b" stroke="#3f3f46"/>
+    <text x="301" y="185" text-anchor="middle" fill="#e4e4e7">Node.js / NestJS</text>
 
-    <rect x="378" y="158" width="150" height="32" rx="8" fill="#0f172a" stroke="#818cf8" stroke-opacity="0.5"/>
-    <text x="453" y="179" text-anchor="middle" fill="#a5b4fc">Wayland / GNOME</text>
+    <rect x="388" y="164" width="136" height="32" rx="8" fill="#18181b" stroke="#3f3f46"/>
+    <text x="456" y="185" text-anchor="middle" fill="#e4e4e7">PHP / Laravel</text>
 
-    <rect x="540" y="158" width="148" height="32" rx="8" fill="#0f172a" stroke="#f472b6" stroke-opacity="0.5"/>
-    <text x="614" y="179" text-anchor="middle" fill="#f472b6">Python &amp; Vue</text>
+    <rect x="536" y="164" width="132" height="32" rx="8" fill="#18181b" stroke="#3f3f46"/>
+    <text x="602" y="185" text-anchor="middle" fill="#e4e4e7">SQL / Docker</text>
 
-    <rect x="700" y="158" width="128" height="32" rx="8" fill="#0f172a" stroke="#fbbf24" stroke-opacity="0.5"/>
-    <text x="764" y="179" text-anchor="middle" fill="#fbbf24">Arch Linux</text>
+    <rect x="680" y="164" width="156" height="32" rx="8" fill="#18181b" stroke="#3f3f46"/>
+    <text x="758" y="185" text-anchor="middle" fill="#a1a1aa">Linux / Security</text>
   </g>
 
-  <!-- Right Emblem -->
-  <g transform="translate(1055, 120)">
-    <rect x="-78" y="-56" width="156" height="112" rx="14" fill="#0f172a" stroke="url(#pacc)" stroke-width="2"/>
-    <text x="0" y="-18" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" fill="#38bdf8" letter-spacing="1.2">FLAGSHIP</text>
-    <text x="0" y="8" text-anchor="middle" font-family="ui-sans-serif, -apple-system, sans-serif" font-size="20" font-weight="800" fill="#f8fafc">SC8180X</text>
-    <text x="0" y="30" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" fill="#34d399">15/15 Linux 7.3</text>
+  <!-- Right Identity Card -->
+  <g transform="translate(1035, 125)">
+    <rect x="-105" y="-64" width="210" height="128" rx="14" fill="#121215" stroke="#27272a" stroke-width="1.5"/>
+    <rect x="-105" y="-64" width="210" height="4" rx="2" fill="url(#ered)"/>
+    <text x="0" y="-26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" fill="#ef4444" letter-spacing="1.6">FULL-STACK DEV</text>
+    <text x="0" y="6" text-anchor="middle" font-family="ui-sans-serif, -apple-system, sans-serif" font-size="22" font-weight="800" fill="#fafafa">elnosso.dev</text>
+    <text x="0" y="34" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="500" fill="#a1a1aa">Script · Groningen</text>
   </g>
 </svg>
