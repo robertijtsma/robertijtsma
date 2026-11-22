@@ -42,6 +42,6 @@ Day-to-day I focus on reliable full-stack web & backend engineering (**React**, 
 
 ### Open Source & Archive
 
-- [**`surface-pro-x-sq2-linux`**](https://github.com/robertijtsma/surface-pro-x-sq2-linux) — Kernel patches, DKMS drivers, Device Tree, daemons & Arch `PKGBUILD` for Surface Pro X SQ2 ([v1.8.0](https://github.com/robertijtsma/surface-pro-x-sq2-linux/releases/latest))
+- [**`surface-pro-x-sq2-linux`**](https://github.com/robertijtsma/surface-pro-x-sq2-linux) — Kernel patches, DKMS drivers, Device Tree, daemons & Arch `PKGBUILD` for Surface Pro X SQ2 ([v1.8.1](https://github.com/robertijtsma/surface-pro-x-sq2-linux/releases/latest))
 - [**`aarch64-arch-mkimg`**](https://github.com/robertijtsma/aarch64-arch-mkimg) — Arch Linux AArch64 bootable disk image builder adapted for Surface Pro X
 - [**`Smurfhotel`**](https://github.com/robertijtsma/Smurfhotel) — Nostalgic archive of one of my earliest large-scale game-server projects
