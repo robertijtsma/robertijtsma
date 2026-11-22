@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm **Robert IJtsma** (*el nosso*), a **Full-Stack Web Developer** based in **Groningen, Netherlands**, currently building and optimizing production web applications at **Script**.
+I'm **Robert IJtsma** (*el nosso*), a **Full-Stack Web Developer** based in **Groningen, Netherlands**, focused on building and optimizing modern web applications and backend systems.
 
 My path into software engineering started early through self-study, curiosity about **cybersecurity**, networking, and running custom game servers & C# tooling from age 12. After completing both **Application & Media Development** (Alfa-college) and **Software Development / Bit Academy** (Noorderpoort), and spending several years in commercial sales and team leadership roles, I combine a solid technical foundation with clear communication and a pragmatic, results-driven mindset.
 
@@ -34,7 +34,7 @@ Day-to-day I focus on reliable full-stack web & backend engineering (**React**, 
 | Project | Type | What it is |
 |---|---|---|
 | [**`elnosso.dev`**](https://elnosso.dev) | Full-Stack Portfolio & PWA | Personal multilingual portfolio web app with custom backend API, CMS, dark gothic UI, and installable PWA support. |
-| [**`Truth or Dare`**](https://tod.playthis.wtf) | Realtime Mobile / Web App | Feature-rich multiplayer Truth or Dare app with live sessions and custom pack creation to play with friends. |
+| [**`Truth or Dare`**](https://tod.playthis.wtf) | Closed Test / Beta (100%) | Feature-rich multiplayer Truth or Dare app with live sessions and custom pack creation to play with friends — currently in Closed Test / Beta. |
 | [**`surface-pro-x-sq2-linux`**](https://github.com/robertijtsma/surface-pro-x-sq2-linux) | Linux Kernel & ARM64 Bring-Up | 100% Linux 7.3 hardware enablement (15/15 subsystems) for Microsoft Surface Pro X SQ2 (`SC8180X`): 3 cameras + IR Face ID, Slim Pen 2 BLE haptics, 4G LTE, 4K Venus decode, USB-C DP, QSEE fTPM 2.0 & `s2idle`. ([Live Docs](https://robertijtsma.github.io/surface-pro-x-sq2-linux/)) |
 | [**`Rave050`**](https://rave050.nl) | Community Platform | Groningen's largest rave & festival community for connecting people, events, and music. |
 
@@ -43,5 +43,4 @@ Day-to-day I focus on reliable full-stack web & backend engineering (**React**, 
 ### Open Source & Archive
 
 - [**`surface-pro-x-sq2-linux`**](https://github.com/robertijtsma/surface-pro-x-sq2-linux) — Kernel patches, DKMS drivers, Device Tree, daemons & Arch `PKGBUILD` for Surface Pro X SQ2 ([v1.8.1](https://github.com/robertijtsma/surface-pro-x-sq2-linux/releases/latest))
-- [**`aarch64-arch-mkimg`**](https://github.com/robertijtsma/aarch64-arch-mkimg) — Arch Linux AArch64 bootable disk image builder adapted for Surface Pro X
 - [**`Smurfhotel`**](https://github.com/robertijtsma/Smurfhotel) — Nostalgic archive of one of my earliest large-scale game-server projects
