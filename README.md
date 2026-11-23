@@ -40,6 +40,17 @@ Day-to-day I focus on reliable full-stack web & backend engineering (**React**, 
 
 ---
 
+### Linux Kernel Contributions (mainline, upstream review)
+
+Patches I've sent upstream to the Linux kernel while bringing up the Surface Pro X SQ2 (`SC8180X`):
+
+| Series | Subsystem | Status |
+|---|---|---|
+| [**`media: qcom: camss` — 5 fixes (v2)**](https://lore.kernel.org/r/20261124-camss-fixes-v2-0-231a5523cd59@gmail.com) | Qualcomm CAMSS (`linux-media`) | Reviewed-by Qualcomm (Loic Poulain) & Linaro (Bryan O'Donoghue) |
+| [**`remoteproc: qcom: add SC8180X SLPI support`**](https://lore.kernel.org/r/20261122-sc8180x-slpi-v1-0-345903fafc96@gmail.com) | `remoteproc` + `arm64: dts: qcom` | Under review |
+
+---
+
 ### Open Source & Archive
 
 - [**`surface-pro-x-sq2-linux`**](https://github.com/robertijtsma/surface-pro-x-sq2-linux) — Kernel patches, DKMS drivers, Device Tree, daemons & Arch `PKGBUILD` for Surface Pro X SQ2 ([v1.8.1](https://github.com/robertijtsma/surface-pro-x-sq2-linux/releases/latest))
