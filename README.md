@@ -50,6 +50,7 @@ Patches I've sent upstream to the Linux kernel while bringing up the Surface Pro
 | [**`soundwire: qcom` — WCD AHB lock & FIFO init fixes**](https://lore.kernel.org/r/20261124-qcom-soundwire-fixes-v1-0-8ca94d60ddd6@gmail.com) | SoundWire (`linux-sound` / `qcom`) | Under review |
 | [**`drm/msm/dpu: sc8180x` — restore `dp_phy_intf_sel` on resume**](https://lore.kernel.org/r/20261124-drm-msm-dpu-sc8180x-resume-v1-1-a6201f43136d@gmail.com) | Freedreno / DPU (`dri-devel`) | Under review |
 | [**`iio: light: tcs3430` — ams OSRAM XYZ & ALS driver + DT binding**](https://lore.kernel.org/r/20261124-iio-tcs3430-v1-0-0f2a38a6a4c1@gmail.com) | IIO Light (`linux-iio` + `devicetree`) | Under review |
+| [**`net: ipa: add Qualcomm SC8180X (IPA v4.1) support`**](https://lore.kernel.org/r/20261125-qcom-ipa-sc8180x-v1-0-48a889acbe6b@gmail.com) | Qualcomm IPA 4G LTE (`net-next`) | Under review |
 | [**`remoteproc: qcom: add SC8180X SLPI support`**](https://lore.kernel.org/r/20261122-sc8180x-slpi-v1-0-345903fafc96@gmail.com) | `remoteproc` + `arm64: dts: qcom` | Under review |
 
 ---
