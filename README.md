@@ -46,7 +46,7 @@ Active mainline Linux kernel patch series (6 series) for Qualcomm `SC8180X` & Mi
 
 | Series | Subsystem | Status |
 |---|---|---|
-| [**`media: qcom: camss` — 5 VFE/CSID/video fixes (v2)**](https://lore.kernel.org/r/20261124-camss-fixes-v2-0-231a5523cd59@gmail.com) | `linux-media` | Under upstream review |
+| [**`media: qcom: camss` — 5 VFE/CSID/video fixes (v2)**](https://lore.kernel.org/r/20261124-camss-fixes-v2-0-231a5523cd59@gmail.com) | `linux-media` | Reviewed-by: Loic Poulain (Qualcomm), Bryan O'Donoghue (Linaro) |
 | [**`remoteproc: qcom` — SC8180X SLPI DSP support**](https://lore.kernel.org/r/20261122-sc8180x-slpi-v1-0-345903fafc96@gmail.com) | `remoteproc / linux-arm-msm` | Under upstream review |
 | [**`soundwire: qcom` — WCD AHB lock & FIFO init fixes**](https://lore.kernel.org/r/20261124-qcom-soundwire-fixes-v1-0-8ca94d60ddd6@gmail.com) | `soundwire / linux-sound` | Under upstream review |
 | [**`drm/msm/dpu: sc8180x` — DP PHY resume fix**](https://lore.kernel.org/r/20261124-drm-msm-dpu-sc8180x-resume-v1-1-a6201f43136d@gmail.com) | `dri-devel / freedreno` | Under upstream review |
