@@ -42,7 +42,7 @@ Day-to-day I focus on reliable full-stack web & backend engineering (**React**, 
 
 ### Linux Kernel Contributions (mainline, upstream review)
 
-Active mainline Linux kernel patch series (7 series) for Qualcomm `SC8180X` & Microsoft Surface Pro X SQ2:
+Active mainline Linux kernel patch series (8 series) for Qualcomm `SC8180X` & Microsoft Surface Pro X SQ2:
 
 | Series | Subsystem | Status |
 |---|---|---|
@@ -53,6 +53,7 @@ Active mainline Linux kernel patch series (7 series) for Qualcomm `SC8180X` & Mi
 | [**`iio: light: tcs3430` — ams OSRAM XYZ & ALS driver**](https://lore.kernel.org/r/20261124-iio-tcs3430-v1-0-0f2a38a6a4c1@gmail.com) | `linux-iio / devicetree` | Reviewed-by: Krzysztof Kozlowski (Qualcomm) |
 | [**`net: ipa` — Qualcomm SC8180X (IPA v4.1) support**](https://lore.kernel.org/r/20261125-qcom-ipa-sc8180x-v1-0-48a889acbe6b@gmail.com) | `netdev` | Reviewed-by: Krzysztof Kozlowski (Qualcomm) |
 | [**`arm64: dts: qcom: sc8180x` — IPA SoC node**](https://lore.kernel.org/r/20261125-sc8180x-dts-ipa-v1-1-12e54c7e13b5@gmail.com) | `linux-arm-msm / devicetree` | Under upstream review |
+| [**`drm/msm/dp` — AUX reset & HPD_REFTIMER fix**](https://lore.kernel.org/r/20261125-drm-msm-dp-aux-resume-v1-1-17f5a40b9a61@gmail.com) | `dri-devel / freedreno` | Under upstream review |
 
 ---
 
