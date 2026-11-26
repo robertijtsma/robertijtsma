@@ -48,10 +48,10 @@ Active mainline Linux kernel patch series (8 series) for Qualcomm `SC8180X` & Mi
 |---|---|---|
 | [**`media: qcom: camss` — 5 VFE/CSID/video fixes (v2)**](https://lore.kernel.org/r/20261124-camss-fixes-v2-0-231a5523cd59@gmail.com) | `linux-media` | Reviewed-by: Loic Poulain (Qualcomm), Bryan O'Donoghue (Linaro) |
 | [**`remoteproc: qcom` — SC8180X SLPI DSP support**](https://lore.kernel.org/r/20261122-sc8180x-slpi-v1-0-345903fafc96@gmail.com) | `remoteproc / linux-arm-msm` | Under upstream review |
-| [**`soundwire: qcom` — WCD AHB lock & FIFO init fixes**](https://lore.kernel.org/r/20261124-qcom-soundwire-fixes-v1-0-8ca94d60ddd6@gmail.com) | `soundwire / linux-sound` | Under upstream review |
+| [**`soundwire: qcom` — WCD AHB lock & FIFO init fixes (v2)**](https://lore.kernel.org/r/20261126-qcom-soundwire-fixes-v2-0-07075d571c6c@gmail.com) | `soundwire / linux-sound` | Under upstream review |
 | [**`drm/msm/dpu: sc8180x` — DP PHY resume fix**](https://lore.kernel.org/r/20261124-drm-msm-dpu-sc8180x-resume-v1-1-a6201f43136d@gmail.com) | `dri-devel / freedreno` | Reviewed-by: Konrad Dybcio (Qualcomm) |
-| [**`iio: light: tcs3430` — ams OSRAM XYZ & ALS driver**](https://lore.kernel.org/r/20261124-iio-tcs3430-v1-0-0f2a38a6a4c1@gmail.com) | `linux-iio / devicetree` | Reviewed-by: Krzysztof Kozlowski (Qualcomm) |
-| [**`net: ipa` — Qualcomm SC8180X (IPA v4.1) support**](https://lore.kernel.org/r/20261125-qcom-ipa-sc8180x-v1-0-48a889acbe6b@gmail.com) | `netdev` | Reviewed-by: Krzysztof Kozlowski (Qualcomm) |
+| [**`iio: light: tcs3430` — ams OSRAM XYZ & ALS driver (v2)**](https://lore.kernel.org/r/20261126-iio-tcs3430-v2-0-6c5329d20919@gmail.com) | `linux-iio / devicetree` | Reviewed-by: Krzysztof Kozlowski (Qualcomm) |
+| [**`net: ipa` — Qualcomm SC8180X (IPA v4.1) support (v2)**](https://lore.kernel.org/r/20261126-qcom-ipa-sc8180x-v2-0-89eba621da95@gmail.com) | `netdev` | Reviewed-by: Krzysztof Kozlowski (Qualcomm) |
 | [**`arm64: dts: qcom: sc8180x` — IPA SoC node**](https://lore.kernel.org/r/20261125-sc8180x-dts-ipa-v1-1-12e54c7e13b5@gmail.com) | `linux-arm-msm / devicetree` | Under upstream review |
 | [**`drm/msm/dp` — AUX reset & HPD_REFTIMER fix**](https://lore.kernel.org/r/20261125-drm-msm-dp-aux-resume-v1-1-17f5a40b9a61@gmail.com) | `dri-devel / freedreno` | Under upstream review |
 
