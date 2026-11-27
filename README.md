@@ -50,7 +50,7 @@ Active mainline Linux kernel patch series (8 series) for Qualcomm `SC8180X` & Mi
 | [**`remoteproc: qcom` — SC8180X SLPI DSP support**](https://lore.kernel.org/r/20261122-sc8180x-slpi-v1-0-345903fafc96@gmail.com) | `remoteproc / linux-arm-msm` | Under upstream review |
 | [**`soundwire: qcom` — WCD AHB lock & FIFO init fixes (v2)**](https://lore.kernel.org/r/20261126-qcom-soundwire-fixes-v2-0-07075d571c6c@gmail.com) | `soundwire / linux-sound` | Under upstream review |
 | [**`drm/msm/dpu: sc8180x` — DP PHY resume fix**](https://lore.kernel.org/r/20261124-drm-msm-dpu-sc8180x-resume-v1-1-a6201f43136d@gmail.com) | `dri-devel / freedreno` | Reviewed-by: Konrad Dybcio (Qualcomm) |
-| [**`iio: light: tcs3430` — ams OSRAM XYZ & ALS driver (v2)**](https://lore.kernel.org/r/20261126-iio-tcs3430-v2-0-6c5329d20919@gmail.com) | `linux-iio / devicetree` | Reviewed-by: Krzysztof Kozlowski (Qualcomm) |
+| [**`iio: light: tcs3430` — ams OSRAM XYZ & ALS driver (v3)**](https://lore.kernel.org/r/20261127-iio-tcs3430-v3-0-e191a40a4ae9@gmail.com) | `linux-iio / devicetree` | Reviewed-by: Krzysztof Kozlowski (Qualcomm) |
 | [**`net: ipa` — Qualcomm SC8180X (IPA v4.1) support (v2)**](https://lore.kernel.org/r/20261126-qcom-ipa-sc8180x-v2-0-89eba621da95@gmail.com) | `netdev` | Reviewed-by: Krzysztof Kozlowski (Qualcomm) |
 | [**`arm64: dts: qcom: sc8180x` — IPA SoC node (v2)**](https://lore.kernel.org/r/20261126-sc8180x-dts-ipa-v2-0-e919ed1643c1@gmail.com) | `linux-arm-msm / devicetree` | Under upstream review |
 | [**`drm/msm/dp` — AUX reset & HPD_REFTIMER fix (v2)**](https://lore.kernel.org/r/20261126-drm-msm-dp-aux-resume-v2-1-3324420b6770@gmail.com) | `dri-devel / freedreno` | Under upstream review |
